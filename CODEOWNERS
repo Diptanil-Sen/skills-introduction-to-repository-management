@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Diptanil-Sen
+/src/backend/database.py      @Diptanil-Sen
+/src/backend/routers/auth.py  @Diptanil-Sen
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Diptanil-Sen
